@@ -1,0 +1,9 @@
+c:\users\sebastián\documents\visual studio 2015\Projects\instaLolSkill\instaLolSkill\bin\Debug\instaLolSkill.exe.config
+c:\users\sebastián\documents\visual studio 2015\Projects\instaLolSkill\instaLolSkill\bin\Debug\instaLolSkill.exe
+c:\users\sebastián\documents\visual studio 2015\Projects\instaLolSkill\instaLolSkill\bin\Debug\instaLolSkill.pdb
+c:\users\sebastián\documents\visual studio 2015\Projects\instaLolSkill\instaLolSkill\obj\Debug\instaLolSkill.csprojResolveAssemblyReference.cache
+c:\users\sebastián\documents\visual studio 2015\Projects\instaLolSkill\instaLolSkill\obj\Debug\instaLolSkill.Properties.Resources.resources
+c:\users\sebastián\documents\visual studio 2015\Projects\instaLolSkill\instaLolSkill\obj\Debug\instaLolSkill.csproj.GenerateResource.Cache
+c:\users\sebastián\documents\visual studio 2015\Projects\instaLolSkill\instaLolSkill\obj\Debug\instaLolSkill.exe
+c:\users\sebastián\documents\visual studio 2015\Projects\instaLolSkill\instaLolSkill\obj\Debug\instaLolSkill.pdb
+c:\users\sebastián\documents\visual studio 2015\Projects\instaLolSkill\instaLolSkill\obj\Debug\instaLolSkill.FormSelect.resources
